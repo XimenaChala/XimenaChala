@@ -71,16 +71,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XimenaChala&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XimenaChala&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=XimenaChala&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
