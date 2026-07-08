@@ -54,18 +54,33 @@
 
 ---
 
+### 💼 Experiencia
+
+**Desarrolladora de Software — Proyectos Independientes** · 2023 – Actualidad
+
+- Diseño y desarrollo de sistemas de gestión (inventarios y control de procesos internos) para pequeños negocios, con Node.js, Java y bases de datos PostgreSQL/MySQL.
+- Construcción de sitios y aplicaciones web con JavaScript, HTML, Vue.js y Angular, adaptadas a los requerimientos de cada cliente.
+- Levantamiento de requerimientos directamente con los dueños de negocio, traduciendo procesos manuales en soluciones digitales funcionales.
+- Mantenimiento, ajustes y soporte técnico posterior a la entrega de cada solución.
+
+**Formación complementaria — SENA** · 2023
+
+- Controladores Lógicos Programables (PLC I)
+- Desarrollo de Aplicaciones con Manejo de Datos en Memoria (Java)
+- Metodología de la Programación de Sistemas Informáticos
+
+---
+
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=XimenaChala&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XimenaChala&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TU_USUARIO&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=XimenaChala&hide_border=true" alt="GitHub Streak" />
 </p>
-
-> ⚠️ Reemplaza `TU_USUARIO` en las tres URLs de arriba por tu usuario real de GitHub para que las estadísticas se muestren correctamente.
 
 ---
 
