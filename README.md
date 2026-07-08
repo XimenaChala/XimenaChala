@@ -2,7 +2,7 @@
 <h3 align="center">Desarrolladora de Software | Automatización de Procesos e Inteligencia Artificial</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Construyendo+sistemas+de+gesti%C3%B3n+e+inventarios;Explorando+RPA+e+IA+aplicada+a+procesos;Aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Desarrollo+de+sistemas+de+gesti%C3%B3n+empresarial;Soluciones+en+automatizaci%C3%B3n+de+procesos+(RPA);Aplicaciones+web+full+stack+orientadas+a+resultados" alt="Typing SVG" />
 </p>
 
 ---
@@ -48,25 +48,9 @@
 
 ### 🚀 Proyectos destacados
 
-<!--
-  Agrega aquí tus proyectos. Ejemplo de formato para cada uno:
+🔧 Actualmente subiendo mis proyectos a GitHub — sistemas de gestión e inventarios desarrollados para negocios locales usando Node.js, Java, Vue.js, Angular y bases de datos relacionales.
 
-  #### 🔹 [Nombre del proyecto](https://github.com/tu-usuario/tu-repo)
-  Breve descripción de qué hace y qué problema resuelve.
-  `Node.js` `PostgreSQL` `Vue.js`
--->
-
-#### 🔹 [Nombre del proyecto 1](#)
-Descripción breve del sistema de gestión o inventario, el problema que resuelve y el impacto para el negocio.
-`Tecnología` `Tecnología` `Tecnología`
-
-#### 🔹 [Nombre del proyecto 2](#)
-Descripción breve.
-`Tecnología` `Tecnología`
-
-#### 🔹 [Nombre del proyecto 3](#)
-Descripción breve.
-`Tecnología` `Tecnología`
+📌 ¡Vuelve pronto para verlos aquí!
 
 ---
 
