@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Ximena Zambrano 👋</h1>
+<h1 align="center">¡Hola! Soy Ximena Del Pilar Zambrano Chala </h1>
 <h3 align="center">Desarrolladora de Software | Automatización de Procesos e Inteligencia Artificial</h3>
 
 <p align="center">
@@ -46,28 +46,6 @@
 
 ---
 
-### 🚀 Proyectos destacados
-
-🔧 Actualmente subiendo mis proyectos a GitHub — sistemas de gestión e inventarios desarrollados para negocios locales usando Node.js, Java, Vue.js, Angular y bases de datos relacionales.
-
-📌 ¡Vuelve pronto para verlos aquí!
-
----
-
-### 💼 Experiencia
-
-**Desarrolladora de Software — Proyectos Independientes** · 2023 – Actualidad
-
-- Diseño y desarrollo de sistemas de gestión (inventarios y control de procesos internos) para pequeños negocios, con Node.js, Java y bases de datos PostgreSQL/MySQL.
-- Construcción de sitios y aplicaciones web con JavaScript, HTML, Vue.js y Angular, adaptadas a los requerimientos de cada cliente.
-- Levantamiento de requerimientos directamente con los dueños de negocio, traduciendo procesos manuales en soluciones digitales funcionales.
-- Mantenimiento, ajustes y soporte técnico posterior a la entrega de cada solución.
-
-**Formación complementaria — SENA** · 2023
-
-- Controladores Lógicos Programables (PLC I)
-- Desarrollo de Aplicaciones con Manejo de Datos en Memoria (Java)
-- Metodología de la Programación de Sistemas Informáticos
 
 ---
 
