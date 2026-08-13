@@ -1,3 +1,8 @@
+<!--
+[CONFIG]
+FULL_NAME: Maria Celeste Dussan
+GITHUB_USER: CelesteDussan
+-->
 <h1 align="center">¡Hola! Soy Ximena Del Pilar Zambrano Chala </h1>
 <h3 align="center">Desarrolladora de Software | Automatización de Procesos e Inteligencia Artificial</h3>
 
