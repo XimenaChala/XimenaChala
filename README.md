@@ -1,6 +1,6 @@
 <!--
 CONFIG
-FULL_NAME: Ximena del pilar zambrano chala
+FULL_NAME: Ximena Del Pilar Zambrano Chala
 GITHUB_USER: XimenaChala
 -->
 <h1 align="center">¡Hola! Soy Ximena Del Pilar Zambrano Chala </h1>
