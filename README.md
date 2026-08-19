@@ -1,5 +1,5 @@
 <!--
-[CONFIG]
+CONFIG
 FULL_NAME: Ximena del pilar zambrano chala
 GITHUB_USER: XimenaChala
 -->
