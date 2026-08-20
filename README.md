@@ -14,6 +14,7 @@ GITHUB_USER: XimenaChala
 
 ### 🧭 Sobre mí
 
+
 - 🎓 Estudiante de últimos semestres de **Ingeniería de Sistemas**
 - 💻 Desarrollo aplicaciones web y sistemas de gestión para pequeños negocios de forma independiente
 - 🏭 Formación complementaria del **SENA** en metodologías de programación y controladores lógicos programables (PLC)
